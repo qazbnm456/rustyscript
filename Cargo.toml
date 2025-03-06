@@ -166,7 +166,7 @@ paste = "1.0.15"
 deno_core = "0.323.0"
 
 # For transpiling typescript
-deno_ast = { version = "=0.43.3", features = ["transpiling", "cjs"] }
+deno_ast = { version = "=0.46.2", features = ["transpiling", "cjs"] }
 
 # Runtime for async tasks
 tokio = "1.42.0"
